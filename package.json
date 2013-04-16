@@ -1,0 +1,57 @@
+{
+  "name": "igittrial-one",
+  "version": "0.1.11",
+  "description": "Testtrial",
+  "keywords": [
+    "jasmine",
+    "igit"
+  ],
+  "author": {
+    "name": "jfseb",
+    "email": "jfseb@gmail.org",
+    "url": "http://github.com/jfseb"
+  },
+  "homepage": "https://github.com/jfseb",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jfseb/igittrial-one"
+  },
+  "main": "./main.js",
+  "scripts": {
+    "test": "jasmine-node tests/"
+  },
+  "engines": {
+    "node": ">=0.1"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "maintainers": [
+    {
+      "name": "jfseb",
+      "email": "jfseb@gmail.com",
+      "url": "http://github.com/jfseb"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "jfseb",
+      "email": "jfseb@gmail.com",
+      "url": "http://github.com/jfseb"
+    }
+  ],
+  "bugs": {
+    "email": "jfseb@gmail.com",
+    "url": "http://github.com/jfseb/igittrial-one"
+  },
+  "licenses": [
+    {
+      "type": "LGPL",
+      "url": "http://www.gnu.org/licenses/lgpl.html"
+    }
+  ],
+  "readme": "Test node js jasmine test execution with travis_ci\n",
+  "readmeFilename": "readme.md",
+  "_id": "igittrial-one@0.1.11",
+  "_from": "igittrial-one@"
+}
+

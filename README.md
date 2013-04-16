@@ -1,6 +1,6 @@
 igittrial-one
 =============
-
+now with travis 
 trial git repository 
 
 Note: behind a firewall, add 

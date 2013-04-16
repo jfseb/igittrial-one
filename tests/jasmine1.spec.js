@@ -7,3 +7,14 @@ describe("A suite is just a function", function() {
     expect(a).toBe(true);
   });
 });
+
+
+describe("test2", function() {
+  var b;
+
+  it("test number two", function() {
+    a = true;
+
+    expect(a).toBe(false);
+  });
+});
